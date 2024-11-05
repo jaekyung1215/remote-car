@@ -1,0 +1,8 @@
+{
+    "name" : "자동차 원격 조종",
+    "short_name" : "자동차 원격 조종",
+    "start_url" : "index.html",
+    "display" : "fullscreen",
+    "background_color" : "#ffffff",
+    "theme_color" : "#ffffff"
+}
